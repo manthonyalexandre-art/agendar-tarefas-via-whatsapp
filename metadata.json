@@ -1,0 +1,5 @@
+{
+  "name": "Agendador de Tarefas com Lembretes para WhatsApp",
+  "description": "Uma aplicação web moderna e responsiva para ajudar a otimizar seu dia a dia com agendamento simples de tarefas e lembretes automáticos via WhatsApp. Todos os dados são salvos localmente no seu navegador.",
+  "requestFramePermissions": []
+}
