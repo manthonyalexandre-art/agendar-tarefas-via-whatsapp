@@ -18,3 +18,18 @@ View your app in AI Studio: https://ai.studio/apps/drive/1n6TCpphy8PY3FROmIBj-ge
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## App Android Studio (Carteira Digital)
+
+Foi adicionado um exemplo de app Android em `android-studio-wallet-app/` usando Kotlin + Jetpack Compose.
+
+### Funcionalidades
+- Cartão de saldo da carteira digital.
+- Ações rápidas: depositar, sacar e transferir.
+- Lista de opções de bolsa com ticker, preço atual e variação diária.
+
+### Como abrir
+1. Abra o Android Studio.
+2. Clique em **Open** e selecione a pasta `android-studio-wallet-app`.
+3. Aguarde o Gradle sincronizar.
+4. Rode no emulador ou dispositivo Android.
